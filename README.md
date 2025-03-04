@@ -14,7 +14,7 @@ This repository contains a KNeighborsRegressor ML model for predicting electrici
 
 1️⃣ Clone Repository
 
-git clone https://github.com/your-username/aws-ml-deployment.git
+
 cd aws-ml-deployment
 
 2️⃣ Install Dependencies
